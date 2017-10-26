@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Alien
+comment1.params=
+comment1.target=Alien()
+comment2.params=x\ y\ g
+comment2.target=void\ putAlien(int,\ int,\ java.awt.Graphics)
+numComments=3
